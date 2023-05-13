@@ -7,7 +7,7 @@
 The channels and pictures in the screenshots are for demonstration purposes only.
 
 ## Download
-
+pip install pillow (en manjaro linux instalar esta dependencia)
 [.deb packages](https://github.com/yuki-iptv/yuki-iptv/releases)
 
 [Ubuntu Launchpad PPA (stable version)](https://launchpad.net/~yuki-iptv/+archive/ubuntu/yuki-iptv-stable)
